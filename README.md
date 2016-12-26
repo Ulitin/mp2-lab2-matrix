@@ -1,4 +1,4 @@
-# Методы программирования 2: Верхнетреугольные матрицы на шаблонах
+﻿# Методы программирования 2: Верхнетреугольные матрицы на шаблонах
 
 [![Build Status](https://travis-ci.org/UNN-VMK-Software/mp2-lab1-set.svg)][travis]
 
@@ -81,4 +81,5 @@
 [git]:         https://git-scm.com/book/ru/v2
 [gtest]:       https://github.com/google/googletest
 [travis]:      https://travis-ci.org/UNN-VMK-Software/mp2-lab1-set
+// it is for add pull request
 
